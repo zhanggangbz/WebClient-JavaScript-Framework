@@ -1,0 +1,22 @@
+{
+  "name": "@mapgis/webclient-leaflet-framework",
+  "version": "10.3.0",
+  "description": "mapgis webclient main framework",
+  "main": "build/webclient-leaflet-framework.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MapGIS/WebClient-JavaScript-Framework.git"
+  },
+  "keywords": [
+    "mapgis"
+  ],
+  "author": "gongyuejian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MapGIS/WebClient-JavaScript-Framework/issues"
+  },
+  "homepage": "https://github.com/MapGIS/WebClient-JavaScript-Framework#readme"
+}
